@@ -5,7 +5,7 @@ const store = require('./utils/store');
 const { description } = require('./../package.json');
 
 const meta = {
-  title: 'Preact Gallery',
+  title: 'A.B. Sullivans Posts',
   description,
   image: 'https://preact.gallery/assets/icons/share.png',
   url: 'https://preact.gallery/',
